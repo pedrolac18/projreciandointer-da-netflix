@@ -1,0 +1,54 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+#ima {
+  height: 700;
+  width: 500;
+  margin-left: 230px;
+  margin-top: 10px;
+}
+
+#cam {
+  text-align: center;
+  margin-top: 10px;
+  text-shadow: 1px 1px 1px gold;
+}
+
+#cami {
+  margin-left: 10px;
+  margin-top: 10px;
+  font-family: cursive;
+}
+
+#camio {
+ margin-left: 10%;
+ font-family: sans-serif;
+ font-size: 16;
+
+}
+
+#la {
+ margin-left: 10%;
+ font-family: sans-serif;
+ font-size: 16;
+
+}
+
+.lele {
+  margin-top: 15px;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: #fff0f5;
+}
+
+#nana {
+  margin-left: 41.5%;
+  background-color: #111111;
+  color: #ffffff;
+}
+
+#bodi{
+  background-color: #fff5ee;
+}
